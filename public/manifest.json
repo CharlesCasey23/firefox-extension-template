@@ -37,8 +37,8 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{daf44bf7-a45e-4450-979c-91cf07434c3d}",
-      "strict_min_version": "42.0"
+      "id": "G3~6oL)v8D5@K&mkCXXh",
+      "update_url": "https://example.com/updates.json"
     }
   }
 }
